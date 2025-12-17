@@ -9,7 +9,7 @@ const ROUTE_MAP: Record<string, string> = {
   support: "/support",
 
   // Custom domains
-  "admincustomdomain.com": "/admin",
+  "n6n.co": "/admin",
   "analyticscustomdomain.com": "/analytics",
   "salescustomdomain.com": "/sales",
   "supportcustomdomain.com": "/support",
